@@ -17,5 +17,5 @@ Weather API
 
 💻 Projeto
 
-Projeto feito para revisar os conhecimentos em Javascript e Api's
+Projeto feito para revisar os conhecimentos em Javascript e Integrações de Api's
 
